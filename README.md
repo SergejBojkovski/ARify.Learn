@@ -1,5 +1,4 @@
-# ARify.Learn
-# AR Dental Anatomy Learning App
+# ARify.Learn: Interactive Education through Augmented Reality 
 
 ## 📌 Кратко интро
 
