@@ -1,0 +1,5 @@
+C:/Users/Sasa/Desktop/Dipomska/Diplomska/.utmp/RelWithDebInfo/2d4n6sl2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Sasa/Desktop/Dipomska/Diplomska/.utmp/RelWithDebInfo/2d4n6sl2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Sasa/Desktop/Dipomska/Diplomska/.utmp/RelWithDebInfo/2d4n6sl2/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/Sasa/Desktop/Dipomska/Diplomska/.utmp/RelWithDebInfo/2d4n6sl2/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Sasa/Desktop/Dipomska/Diplomska/.utmp/RelWithDebInfo/2d4n6sl2/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

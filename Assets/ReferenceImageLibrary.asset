@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5603073258290823367
+  m_GuidHigh: 14148559545410346645
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5066671030853026241
+      m_GuidHigh: 14972058029409987232
+    m_SerializedTextureGuid:
+      m_GuidLow: 8116794646808111724
+      m_GuidHigh: 7272879528492189592
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mandibular_first_molar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5285193661192017169
+      m_GuidHigh: 10647211331443432838
+    m_SerializedTextureGuid:
+      m_GuidLow: 9472227909179557746
+      m_GuidHigh: 4387643022997108265
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mandibular_second_molar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5066810929055265802
+      m_GuidHigh: 12899669668783792547
+    m_SerializedTextureGuid:
+      m_GuidLow: 10692883203673398529
+      m_GuidHigh: 8702882465163898041
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: maxillary_first_molar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4776438503293219040
+      m_GuidHigh: 1870296252414428303
+    m_SerializedTextureGuid:
+      m_GuidLow: 12530197388510538732
+      m_GuidHigh: 11265605443489530075
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: maxillary_lateral_incisor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5598785682337267330
+      m_GuidHigh: 5503353760040097722
+    m_SerializedTextureGuid:
+      m_GuidLow: 1613607195103448462
+      m_GuidHigh: 7677137289975295498
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mandibular_first_premolar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5169543688793016076
+      m_GuidHigh: 6115338095922349206
+    m_SerializedTextureGuid:
+      m_GuidLow: 7959141712913714244
+      m_GuidHigh: 2459927199047399771
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: maxillary_first_premolar
+    m_Texture: {fileID: 0}
